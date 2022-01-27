@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lampstackninja (Kenn Kitchen) and I am the founder and CEO of [Webinology](https://webinology.io), where we make great things on the LAMP/LEMP platform.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning more about Laravel 8.
+- 👀 I’m interested in infrastructure-as-code.
+- 🌱 I’m currently learning more about Ansible.
 - 📫 You can contact me by visiting [our website](https://webinology.io) and using the contact form.
 
 <!---
